@@ -1,6 +1,17 @@
-# Sofy_ASW_Action
+# Sofy Azure Webapp Integration
 
-This action uploads your azure_static_website to your Sofy Account to perform tests upon push.
+Sofy for Web integrates into your Azure Static Webapp CI/CD pipeline through Github actions. Sofy will monitor your website and send you exploratory testing results after every push with no input required.
+
+To learn more about Sofy For Web click [here](https://sofy.ai/azure-static-webapp-integration/) 
+
+## Prerequisites
+
+In order to integrate your Azure Static Webapp with Sofy for Web, you need to first create an account with Sofy. 
+
+1. [Create an Account with Sofy Here](https://sofy.ai/register/)
+2. Once your account is created, click on the tab *I want to test a Website*
+	![Test a Website](newaccount.png)
+
 
 ## Inputs
 
