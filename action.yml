@@ -1,4 +1,4 @@
-name: 'Sofy-Workflow-Action'
+name: 'Sofy-Azure-Webapp-Integration'
 description: 'Greet someone and record the time'
 inputs:
   website_url:  # id of input
@@ -6,11 +6,7 @@ inputs:
     required: true
     default: ''
   application_guid:  # id of input
-    description: 'ApplicationGUID retrieved from SOFY for Web'
-    required: true
-    default: ''
-  application_id:  # id of input
-    description: 'ApplicationID retrieved from SOFY for Web'
+    description: 'Subscription ID'
     required: true
     default: ''
 outputs:
