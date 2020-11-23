@@ -13,9 +13,15 @@ In order to integrate your Azure Static Webapp with Sofy for Web, you need to fi
 
 	![Test a Website](newaccount.png)
 
-3. Then copy the YML snippet into the YML script provided by Azure Webapps as a job. This snippet is specific to your account. 
+3. Then copy the YML snippet into the YML script provided by Azure Webapps as a job. This snippet is specific to your account.
+
+	![Copy Snippet](copysnippet.png)
+
 4. Set `website` in the snippet to the endpoint of your Azure Webapp
-5. Push changes to the repository. 
+
+	![website](changeurl.png)
+
+5. Push changes to your Azure Static Webapp repository. 
 6. You will receive an email with results every time you push code to the repository.
 
 

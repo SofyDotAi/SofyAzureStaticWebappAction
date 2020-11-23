@@ -5,7 +5,7 @@ inputs:
     description: 'Website Endpoint to Run SOFY for WEB'
     required: true
     default: ''
-  application_guid:  # id of input
+  subscription_id:  # id of input
     description: 'Subscription ID'
     required: true
     default: ''
