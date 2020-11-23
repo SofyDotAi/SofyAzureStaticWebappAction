@@ -17,7 +17,7 @@ In order to integrate your Azure Static Webapp with Sofy for Web, you need to fi
 
 	![Copy Snippet](copysnippet.png)
 
-4. Set `website` in the snippet to the endpoint of your Azure Webapp
+4. Set `website_url` in the snippet to the endpoint of your Azure Webapp
 
 	![website](changeurl.png)
 
