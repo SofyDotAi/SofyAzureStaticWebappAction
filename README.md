@@ -27,7 +27,7 @@ In order to integrate your Azure Static Webapp with Sofy for Web, you need to fi
 
 6. Select *Integration* on the left
 
-	![Profile](accountsettings.png)
+	![Profile](integration.png)
 
 7. Then copy the YML snippet into the YML script provided by Azure Webapps as a job. This snippet is specific to your account.
 
