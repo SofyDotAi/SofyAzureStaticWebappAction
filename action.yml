@@ -1,4 +1,4 @@
-name: 'Sofy-Azure-Webapp-Integration'
+name: 'Sofy-Azure-Static-Webapp-Integration'
 description: 'Greet someone and record the time'
 inputs:
   website_url:  # id of input
